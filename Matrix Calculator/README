@@ -1,0 +1,13 @@
+//Rhea Lingaiah 
+//rlingaia 
+//pa3 
+//11/5/17
+
+Contents: 
+1. List.java- List adt with a linked list that is doubly linked 
+2. Matrix.java- Matrix Adt which has an array of the lists. Implemented the List.java in this file as well 
+3. Sparse.java- Main class for the List.java/Matrix.java. Takes in file and prints it to an out file. 
+4. MatrixTest.java- Test all the functions in Matrix.java 
+5. ListTest.java- Test all the function in List.java 
+6. README 
+7. MAKEFILE- compiles the files into jar  
