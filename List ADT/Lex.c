@@ -1,5 +1,5 @@
 //Rhea Lingaiah
-//rlingaia@ucsc.edu
+//rlingaia
 //PA2
 #include<stdio.h>
 #include<stdlib.h>
