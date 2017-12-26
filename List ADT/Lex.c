@@ -5,7 +5,7 @@
 #include<stdlib.h>
 #include<string.h>
 #include "List.h"
-#define MAX_LEN 160
+#define MAX_LEN 350
 
 int main(int argc, char* argv[]) {
     // Throws error if wrong number of args
