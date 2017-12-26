@@ -1,0 +1,13 @@
+Rhea Lingaiah 
+rlingaia 
+PA4 
+ 
+contents: 
+1. List.c- List adt with a linked list that is doubly linked  
+2. List.h- header file for List.c  
+3. Graph.h- header file for Graph.c 
+4. Graph.c-adt for graph where we can find the shortest path through a graph by also creating edges/arcs etc. 
+5. GraphTest.c- Test all the function in Graph.c  
+6. README -instructions/contents 
+7. MAKEFILE- builds the project 
+8. FindPath.c- calls methods in Graph.c to find the shortest path on the graph and print to out file 
